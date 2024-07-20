@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DHARUN151
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning 12th standard 
-- 📫 How to reach me karur tamilnadu 
+- 👀 I’m interested to watch movies
+- 🌱 I’m currently pursuing my undergraduate 
+- 📫 How to reach me : karur ,tamilnadu 
 
 <!---
 DHARUN151/DHARUN151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
