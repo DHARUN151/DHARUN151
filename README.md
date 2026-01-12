@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e3c72,100:2a5298&height=200&text=Hi%20I'm%20Dharun%20Kumar%20S&fontSize=42&fontColor=ffffff&stroke=00ffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Dharun%20Kumar%20S&fontSize=40&fontColor=ffffff&desc=ECE%20|%20IT%20|%20IoT%20|%20MERN%20|%20Embedded%20Systems&descSize=18&animation=fadeIn" />
 </p>
 
 ---
