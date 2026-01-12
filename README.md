@@ -53,7 +53,7 @@ ESP32 + Sensors + Cloud to monitor TDS, pH, and temperature in real-time.
 ## 📈 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHARUN151&show_icons=true&theme=tokyonight" />
+  
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHARUN151&theme=tokyo-night" />
 </p>
